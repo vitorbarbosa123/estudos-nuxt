@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Pagamento de domínio .com.br",
+      "amount": 40,
+      "date": "2022-01-01",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "description": "Curso Laravel PRO",
+      "amount": 19.9,
+      "date": "2022-01-01",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Equipamentos de TI, assinatura de softwares e cursos"
+    },
+    {
+      "name": "vitorEdemais",
+      "id": 2
+    }
+  ]
+}
